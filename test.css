@@ -1,0 +1,13 @@
+*{
+    margin:10px 0px 0px 10px;
+    padding: 0px;
+    color: rgb(145, 10, 224);
+}
+.test{
+    color: blue;
+    cursor: url('https://em-content.zobj.net/thumbs/120/microsoft/319/round-pushpin_1f4cd.png'), auto;
+}
+.oo{
+    background-color: aqua;
+    /* background-blend-mode: darken; */
+}
